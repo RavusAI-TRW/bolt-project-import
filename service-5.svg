@@ -1,0 +1,9 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="64" height="64" rx="12" fill="#0B1B3B"/>
+  <path d="M20 30L28 22L36 30L44 22" stroke="#D6B25E" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <circle cx="28" cy="36" r="6" fill="#D6B25E" opacity="0.7"/>
+  <path d="M24 36L28 40L32 36" fill="#ffffff"/>
+  <rect x="38" y="32" width="8" height="8" rx="1" fill="#D6B25E" opacity="0.6"/>
+  <circle cx="42" cy="36" r="2" fill="#ffffff"/>
+  <text x="32" y="56" text-anchor="middle" fill="#ffffff" font-size="8" font-family="system-ui">Repair</text>
+</svg>

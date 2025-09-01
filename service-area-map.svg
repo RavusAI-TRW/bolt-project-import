@@ -1,0 +1,41 @@
+<svg width="600" height="400" viewBox="0 0 600 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="400" fill="#F5F7FB"/>
+  <rect width="600" height="400" fill="url(#mapPattern)" opacity="0.1"/>
+  
+  <defs>
+    <pattern id="mapPattern" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
+      <rect width="20" height="20" fill="#0B1B3B" opacity="0.02"/>
+      <circle cx="10" cy="10" r="1" fill="#0B1B3B" opacity="0.1"/>
+    </pattern>
+  </defs>
+  
+  <!-- Main service area boundary -->
+  <path d="M100 80 Q200 60 300 80 Q400 100 500 120 Q520 200 480 280 Q400 320 300 300 Q200 320 100 280 Q80 200 100 80Z" 
+        fill="#0B1B3B" opacity="0.1" stroke="#0B1B3B" stroke-width="2"/>
+  
+  <!-- Roads -->
+  <path d="M0 200 Q300 180 600 200" stroke="#0B1B3B" stroke-width="3" opacity="0.3"/>
+  <path d="M300 0 Q280 200 300 400" stroke="#0B1B3B" stroke-width="2" opacity="0.3"/>
+  <path d="M100 100 Q350 120 500 140" stroke="#0B1B3B" stroke-width="2" opacity="0.2"/>
+  
+  <!-- Service locations -->
+  <circle cx="200" cy="150" r="8" fill="#D6B25E"/>
+  <text x="200" y="165" text-anchor="middle" fill="#0B1B3B" font-size="12" font-weight="bold">HQ</text>
+  
+  <circle cx="350" cy="180" r="4" fill="#0B1B3B"/>
+  <circle cx="280" cy="120" r="4" fill="#0B1B3B"/>
+  <circle cx="420" cy="220" r="4" fill="#0B1B3B"/>
+  <circle cx="180" cy="240" r="4" fill="#0B1B3B"/>
+  
+  <!-- Zip code areas -->
+  <text x="250" y="100" text-anchor="middle" fill="#0B1B3B" font-size="14" font-weight="bold">12345</text>
+  <text x="180" y="180" text-anchor="middle" fill="#0B1B3B" font-size="14" font-weight="bold">12346</text>
+  <text x="380" y="160" text-anchor="middle" fill="#0B1B3B" font-size="14" font-weight="bold">12347</text>
+  <text x="320" y="250" text-anchor="middle" fill="#0B1B3B" font-size="14" font-weight="bold">12348</text>
+  
+  <!-- Coverage radius indicator -->
+  <circle cx="200" cy="150" r="80" fill="none" stroke="#D6B25E" stroke-width="2" stroke-dasharray="8 4" opacity="0.6"/>
+  
+  <text x="300" y="350" text-anchor="middle" fill="#0B1B3B" font-size="18" font-weight="bold">Service Area Coverage Map</text>
+  <text x="300" y="370" text-anchor="middle" fill="#666666" font-size="14">Primary service areas highlighted</text>
+</svg>

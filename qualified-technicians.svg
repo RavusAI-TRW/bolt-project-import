@@ -1,0 +1,11 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="80" height="80" rx="16" fill="#F5F7FB"/>
+  <circle cx="40" cy="30" r="8" fill="#0B1B3B"/>
+  <circle cx="40" cy="30" r="4" fill="#D6B25E"/>
+  <path d="M28 50C28 44 33 40 40 40C47 40 52 44 52 50V55H28V50Z" fill="#0B1B3B"/>
+  <rect x="35" y="45" width="10" height="6" fill="#D6B25E" opacity="0.8"/>
+  <circle cx="32" cy="22" r="3" fill="#D6B25E" opacity="0.6"/>
+  <circle cx="48" cy="22" r="3" fill="#D6B25E" opacity="0.6"/>
+  <path d="M34 58L38 62L46 54" stroke="#D6B25E" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="40" y="72" text-anchor="middle" fill="#0B1B3B" font-size="10" font-family="system-ui">Qualified Team</text>
+</svg>

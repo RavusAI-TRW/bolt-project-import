@@ -1,0 +1,10 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="64" height="64" rx="12" fill="#0B1B3B"/>
+  <circle cx="32" cy="28" r="8" fill="#D6B25E" opacity="0.7"/>
+  <circle cx="32" cy="28" r="4" fill="#ffffff"/>
+  <path d="M20 42H44" stroke="#D6B25E" stroke-width="3" stroke-linecap="round"/>
+  <path d="M24 46H40" stroke="#D6B25E" stroke-width="2" stroke-linecap="round" opacity="0.8"/>
+  <circle cx="18" cy="42" r="2" fill="#D6B25E"/>
+  <circle cx="46" cy="42" r="2" fill="#D6B25E"/>
+  <text x="32" y="56" text-anchor="middle" fill="#ffffff" font-size="8" font-family="system-ui">Consultation</text>
+</svg>

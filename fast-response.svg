@@ -1,0 +1,7 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="80" height="80" rx="16" fill="#F5F7FB"/>
+  <circle cx="40" cy="40" r="20" fill="#0B1B3B"/>
+  <path d="M40 26L44 36H36L40 54L36 44H44L40 26Z" fill="#D6B25E"/>
+  <circle cx="40" cy="40" r="24" fill="none" stroke="#D6B25E" stroke-width="2" stroke-dasharray="4 4" opacity="0.6"/>
+  <text x="40" y="72" text-anchor="middle" fill="#0B1B3B" font-size="10" font-family="system-ui">Fast Response</text>
+</svg>

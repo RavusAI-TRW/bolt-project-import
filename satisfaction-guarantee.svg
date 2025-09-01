@@ -1,0 +1,8 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="80" height="80" rx="16" fill="#F5F7FB"/>
+  <path d="M40 18L46 32H60L49 41L55 55L40 46L25 55L31 41L20 32H34L40 18Z" fill="#D6B25E"/>
+  <circle cx="40" cy="40" r="12" fill="#0B1B3B" opacity="0.8"/>
+  <path d="M35 40L38 43L45 36" stroke="#D6B25E" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="40" y="66" text-anchor="middle" fill="#D6B25E" font-size="12" font-weight="bold">100%</text>
+  <text x="40" y="72" text-anchor="middle" fill="#0B1B3B" font-size="10" font-family="system-ui">Satisfaction Guaranteed</text>
+</svg>
