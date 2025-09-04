@@ -1,3 +1,4 @@
+console.log("BOLT_MARKER_MAINJS", new Date().toISOString());
 import './style.css'
 import './styles.css'
 
