@@ -35,7 +35,7 @@ document.querySelector('#app').innerHTML = `
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="text-center">
           <h1 class="text-4xl md:text-6xl font-bold text-navy mb-6 fade-in">
-            Compassionate Senior Care Services
+            Senior Care Services
           </h1>
           <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto fade-in">
             Professional, licensed, and insured caregiving services throughout Los Angeles. 
