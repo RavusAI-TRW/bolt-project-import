@@ -35,10 +35,10 @@ document.querySelector('#app').innerHTML = `
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="text-center">
           <h1 class="text-4xl md:text-6xl font-bold text-navy mb-6 fade-in">
-            Senior Care Services
+            Senior Care You Can Trust
           </h1>
           <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto fade-in">
-            Professional, licensed, and insured caregiving services throughout Los Angeles. 
+            Licensed and insured caregiving services throughout Los Angeles. 
             We provide companion care, personal care, and medical assistance with excellence and dedication.
           </p>
           <div class="flex flex-col sm:flex-row gap-4 justify-center fade-in">
